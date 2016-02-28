@@ -1,0 +1,29 @@
+_repo: Curly-and-Floppy-Twistytail-The-Funny-Piggie-Boys_5262
+creator:
+  author:
+    agent_name: Garis, Howard Roger
+    aliases:
+    - Davidson, Marion
+    - Garis, Howard R.
+    birthdate: 1873
+    deathdate: 1962
+    gutenberg_agent_id: '808'
+    url: http://www.gutenberg.org/2009/agents/808
+    wikipedia: http://en.wikipedia.org/wiki/Howard_R._Garis
+description: Once upon a time, not so very many years ago, in the days when there
+  were fairies and giants and all things like that, there lived in a little house,
+  on the edge of a wood, a family of pigs.
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5262'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Swine -- Juvenile fiction'
+title: Curly and Floppy Twistytail (The Funny Piggie Boys)
+url: http://www.gutenberg.org/ebooks/5262
