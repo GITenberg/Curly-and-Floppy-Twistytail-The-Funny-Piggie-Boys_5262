@@ -1,5 +1,5 @@
 _repo: Curly-and-Floppy-Twistytail-The-Funny-Piggie-Boys_5262
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -31,5 +31,6 @@ subjects:
 - !lcsh 'Animals -- Juvenile fiction'
 - !lcc 'PZ'
 - !lcsh 'Swine -- Juvenile fiction'
+- GITenberg
 title: Curly and Floppy Twistytail (The Funny Piggie Boys)
 url: http://www.gutenberg.org/ebooks/5262
